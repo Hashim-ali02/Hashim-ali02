@@ -1,4 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=speech&height=100&color=gradient&text=Hello%20there&section=header&reversal=false&textBg=false&fontSize=40&fontAlign=50&animation=scaleIn" width="100%">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hashim-ali02&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
+
 <h1 align="center">🚀 About Me</h1>
 
 I like Computers, Maths, and the puzzles we can solve with them in the fields of Software Engineering and Cyber Security.
@@ -248,10 +253,6 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hashim-ali02&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
 
 <h3>
 <div align="center">
