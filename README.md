@@ -9,12 +9,6 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 
 [![My Skills](https://skillicons.dev/icons?i=arch,aws,azure,bash,c,docker,git,github,go,kafka,kali,kubernetes,latex,linux,mysql,rabbitmq,raspberrypi,redis,rust,sqlite,sklearn,ts,vim,vscode,js,html,css&perline=18)](https://skillicons.dev)
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hashim-ali02&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
-
-
 <!-- Certifications -->
 <h2 align="center">🎓 My Certifications</h2>
 
@@ -254,6 +248,10 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hashim-ali02&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
 
 <h3>
 <div align="center">
