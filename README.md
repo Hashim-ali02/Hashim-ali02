@@ -100,11 +100,11 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 <div align="center">
 
 <table>
-  <tr>https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/MazeSolver.gif
-    <td align="center" width="300" height="300">
+  <tr>
+    <a href="https://github.com/Hashim-ali02/MazeSolver"><td align="center" width="300" height="300">
       <img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/MazeSolver.gif" alt="Maze Solver"/>
       <br>
-      <strong>Maze Solver</strong>
+      <a href="https://github.com/Hashim-ali02/MazeSolver"><strong>Maze Solver</strong>
       <br>
       Maze Solver Python Tool
     </td>
