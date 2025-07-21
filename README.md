@@ -191,6 +191,8 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
       <br>
       CodeCrafters.io build your own Kafka challenge.
     </td>
+  </tr>
+  <tr>
     <td align="center" width="300" height="300">
       <a href="https://github.com/Hashim-ali02/codecrafters-git-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-GIT.png" alt="Git"/>
       <br>
