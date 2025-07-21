@@ -196,27 +196,6 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 
 </details>
 
-
-<br>
-
-### Hashim-ali02/README.md activity
-<img width="100%" src="https://repobeats.axiom.co/api/embed/71088dca1826d862466e4f10a3f357c77b6a7f08.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
-[![Forkers repo roster for @Hashim-ali02/Hashim-ali02](https://reporoster.com/forks/dark/Hashim-ali02/Hashim-ali02)](https://github.com/Hashim-ali02/Hashim-ali02/network/members)
-
-[![Repography](https://reporoster.com/stars/dark/Hashim-ali02/Hashim-ali02)](https://github.com/Hashim-ali02/Hashim-ali02)
-
-<details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for Hashim-ali02&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
-
-  <h2>Star History Chart</h2>
-  <a href="https://www.star-history.com/#Hashim-ali02/Hashim-ali02&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Hashim-ali02/Hashim-ali02&type=Date&theme=dark" />
-  </a>
-
-</details>
-
-
 <br>
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
