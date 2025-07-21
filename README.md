@@ -130,6 +130,36 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
       Simple Text Analysis Tool
     </td>
   </tr>
+  <tr>
+    <td align="center" width="300" height="300">
+      <a href="https://github.com/Hashim-ali02/codecrafters-http-server-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-HTTP.png" alt="HTTP Server"/>
+      <br>
+      <strong>HTTP Server</strong>
+      <br>
+      CodeCrafters.io build your own HTTP Server challenge.
+    </td>
+    <td align="center" width="300" height="300">
+      <a href="https://github.com/Hashim-ali02/codecrafters-DNS-server-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-DNS.png" alt="DNS Server"/>
+      <br>
+      <strong>DNS Server</strong>
+      <br>
+      CodeCrafters.io build your own DNS Server challenge.
+    </td>
+    <td align="center" width="300" height="300">
+      <a href="https://github.com/Hashim-ali02/codecrafters-grep-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-GREP.png" alt="Grep"/>
+      <br>
+      <strong>Grep</strong>
+      <br>
+      CodeCrafters.io build your own grep challenge.
+    </td>
+    <td align="center" width="300" height="300">
+      <a href="https://github.com/Hashim-ali02/codecrafters-shell-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-SHELL.png" alt="SHELL"/>
+      <br>
+      <strong>SHELL</strong>
+      <br>
+      CodeCrafters.io build your own Shell challenge.
+    </td>
+  </tr>
 </table>
 
 </div>
