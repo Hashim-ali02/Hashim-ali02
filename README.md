@@ -131,28 +131,28 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
     </td>
   </tr>
   <tr>
-    <td align="center" width="150" height="150">
+    <td align="center" width="100" height="100">
       <a href="https://github.com/Hashim-ali02/codecrafters-http-server-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-HTTP.png" alt="HTTP Server"/>
       <br>
       <strong>HTTP Server</strong>
       <br>
       CodeCrafters.io build your own HTTP Server challenge.
     </td>
-    <td align="center" width="250" height="250">
+    <td align="center" width="100" height="100">
       <a href="https://github.com/Hashim-ali02/codecrafters-DNS-server-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-DNS.png" alt="DNS Server"/>
       <br>
       <strong>DNS Server</strong>
       <br>
       CodeCrafters.io build your own DNS Server challenge.
     </td>
-    <td align="center" width="250" height="250">
+    <td align="center" width="100" height="100">
       <a href="https://github.com/Hashim-ali02/codecrafters-grep-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-GREP.png" alt="Grep"/>
       <br>
       <strong>Grep</strong>
       <br>
       CodeCrafters.io build your own grep challenge.
     </td>
-    <td align="center" width="250" height="250">
+    <td align="center" width="100" height="100">
       <a href="https://github.com/Hashim-ali02/codecrafters-shell-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-SHELL.png" alt="SHELL"/>
       <br>
       <strong>SHELL</strong>
