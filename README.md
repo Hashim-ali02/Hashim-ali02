@@ -14,7 +14,7 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,aws,azure,bash,c,docker,git,github,go,js,kafka,kali,kubernetes,latex,linux,mysql,rabbitmq,raspberrypi,redis,rust,sqlite,sklearn,ts,vim,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=arch,aws,azure,bash,c,docker,git,github,go,js,kafka,kali,kubernetes,latex,linux,mysql,rabbitmq,raspberrypi,redis,rust,sqlite,sklearn,ts,vim,vscode&perline=13" />
   </a>
 </p>
 
