@@ -150,44 +150,60 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
       <br>
       <strong>Grep</strong>
       <br>
-      CodeCrafters.io build your own grep challenge.
+      CodeCrafters.io build your own Grep challenge.
     </td>
     <td align="center" width="100" height="100">
-      <a href="https://github.com/Hashim-ali02/codecrafters-shell-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-SHELL.png" alt="SHELL"/>
+      <a href="https://github.com/Hashim-ali02/codecrafters-shell-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-SHELL.png" alt="Shell"/>
       <br>
-      <strong>SHELL</strong>
+      <strong>Shell</strong>
       <br>
       CodeCrafters.io build your own Shell challenge.
     </td>
   </tr>
+
+        
   <tr>
     <td align="center" width="300" height="300">
-      <a href="https://github.com/Hashim-ali02/codecrafters-http-server-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-HTTP.png" alt="HTTP Server"/>
+      <a href="https://github.com/Hashim-ali02/codecrafters-interpreter-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-INT.png" alt="Interpreter"/>
       <br>
-      <strong>HTTP Server</strong>
+      <strong>Interpreter</strong>
       <br>
-      CodeCrafters.io build your own HTTP Server challenge.
+      CodeCrafters.io build your own Interpreter challenge.
     </td>
     <td align="center" width="300" height="300">
-      <a href="https://github.com/Hashim-ali02/codecrafters-DNS-server-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-DNS.png" alt="DNS Server"/>
+      <a href="https://github.com/Hashim-ali02/codecrafters-redis-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-REDIS.png" alt="Redis"/>
       <br>
-      <strong>DNS Server</strong>
+      <strong>Redis</strong>
       <br>
-      CodeCrafters.io build your own DNS Server challenge.
+      CodeCrafters.io build your own Redis challenge.
     </td>
     <td align="center" width="300" height="300">
-      <a href="https://github.com/Hashim-ali02/codecrafters-grep-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-GREP.png" alt="Grep"/>
+      <a href="https://github.com/Hashim-ali02/codecrafters-bittorrent-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-BIT.png" alt="BitTorrent"/>
       <br>
-      <strong>Grep</strong>
+      <strong>BitTorrent</strong>
       <br>
-      CodeCrafters.io build your own grep challenge.
+      CodeCrafters.io build your own BitTorrent challenge.
     </td>
     <td align="center" width="300" height="300">
-      <a href="https://github.com/Hashim-ali02/codecrafters-shell-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-SHELL.png" alt="SHELL"/>
+      <a href="https://github.com/Hashim-ali02/codecrafters-kafka-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-KAFKA.png" alt="Kafka"/>
       <br>
-      <strong>SHELL</strong>
+      <strong>Kafka</strong>
       <br>
-      CodeCrafters.io build your own Shell challenge.
+      CodeCrafters.io build your own Kafka challenge.
+    </td>
+    <td align="center" width="300" height="300">
+      <a href="https://github.com/Hashim-ali02/codecrafters-git-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-GIT.png" alt="Git"/>
+      <br>
+      <strong>Git</strong>
+      <br>
+      CodeCrafters.io build your own Git challenge.
+    </td>
+    <td align="center" width="300" height="300">
+      <a href="https://github.com/Hashim-ali02/codecrafters-sqlite-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-SQLITE.png" alt="SQLite"/>
+      <br>
+      <strong>SQLite</strong>
+      <br>
+      CodeCrafters.io build your own SQLite challenge.
     </td>
   </tr>
 </table>
