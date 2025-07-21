@@ -101,7 +101,7 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 
 <table>
   <tr>
-    <td align="center" width="300" height="300" valign="bottom">
+    <td align="center" width="300" height="300">
       <a href="https://github.com/Hashim-ali02/asteroids"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/Asteroids.png" alt="Asteroids"/>
       <br>
       <strong>Asteroids</strong>
