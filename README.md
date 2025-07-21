@@ -102,14 +102,14 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 <table>
   <tr>
     <td align="center" width="300" height="200">
-      <a href="https://github.com/Hashim-ali02/asteroids"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/Asteroids.png"  alt="Asteroids"/>
+      <a href="https://github.com/Hashim-ali02/asteroids"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/Asteroids.png" alt="Asteroids"/>
       <br>
       <strong>Asteroids</strong>
       <br>
       2D Mini-Game
     </td>
     <td align="center" width="300" height="300">
-      <a href="https://github.com/Hashim-ali02/bookbot"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/bookbot-project-demo.gif"  alt="BookBot"/>
+      <a href="https://github.com/Hashim-ali02/bookbot"><img src="https://github.com/Hashim-ali02/Hashim-ali02/projectimg/bookbot-final-project-demo.gif" alt="BookBot"/>
       <br>
       <strong>BookBot</strong>
       <br>
