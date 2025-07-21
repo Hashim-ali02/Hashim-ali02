@@ -12,7 +12,11 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Technical Skills</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=arch,aws,azure,bash,c,docker,git,github,go,js,kafka,kali,kubernetes,latex,linux,mysql,rabbitmq,raspberrypi,redis,rust,sqlite,sklearn,ts,vim,vscode&perline=15)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,aws,azure,bash,c,docker,git,github,go,js,kafka,kali,kubernetes,latex,linux,mysql,rabbitmq,raspberrypi,redis,rust,sqlite,sklearn,ts,vim,vscode&perline=12" />
+  </a>
+</p>
 
 <!-- Certifications -->
 <h2 align="center">🎓 My Certifications</h2>
