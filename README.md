@@ -217,6 +217,20 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 <h2 align="center">Git Stats</h2>
 
 <div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Hashim-ali02&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Hashim-ali02&hide_border=true&border_radius=0&show_icons=true&theme=highcontrast" alt="Hashim's GitHub stats">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
  
   <img src="https://streak-stats.demolab.com/?user=Hashim-ali02&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Hashim-ali02&hide_border=true&border_radius=0&show_icons=true&theme=highcontrast" alt="Hashim's GitHub stats">
