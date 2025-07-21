@@ -100,9 +100,9 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 <div align="center">
 
 <table>
-  <tr>
+  <tr>https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/MazeSolver.gif
     <td align="center" width="300" height="300">
-      <a href="https://github.com/Hashim-ali02/MazeSolver"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/MazeSolver.gif" alt="Maze Solver"/>
+      <img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/MazeSolver.gif" alt="Maze Solver"/>
       <br>
       <strong>Maze Solver</strong>
       <br>
