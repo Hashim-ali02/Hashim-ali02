@@ -274,26 +274,6 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
     <img src="https://ghchart.rshah.org/Hashim-ali02" alt="Hashim's GitHub Contribution Chart">
 </a>
 
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/Hashim-ali02?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Hashim's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/Hashim-ali02?theme=dark" alt="Hashim's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Hashim-ali02" alt="Advanced GitHub Stats for Hashim-ali02" width="400">
-
-</details>
-
-<br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-  <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Hashim-ali02&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=Hashim-ali02" alt="GitHub Trophies for Hashim-ali02">
-</details>
-
 <br>
 
 <h3 align="center">Boot.dev Stats</h3>
