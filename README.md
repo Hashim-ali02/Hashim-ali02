@@ -109,16 +109,16 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
       Maze Solver Python Tool
     </td>
     <td align="center" width="300" height="300">
-      <a href="https://github.com/Hashim-ali02/asteroids"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/Asteroids.png" alt="Asteroids"/>
+      <img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/Asteroids.png" alt="Asteroids"/>
       <br>
-      <strong>Asteroids</strong>
+      <a href="https://github.com/Hashim-ali02/asteroids"><strong>Asteroids</strong>
       <br>
       2D Mini-Game
     </td>
     <td align="center" width="300" height="300">
-      <a href="https://github.com/Hashim-ali02/bookbot"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/BookBot.png" alt="BookBot"/>
+      <img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/bookbot-final-project-demo.gif" alt="BookBot"/>
       <br>
-      <strong>BookBot</strong>
+      <a href="https://github.com/Hashim-ali02/bookbot"><strong>BookBot</strong>
       <br>
       Simple Text Analysis Tool
     </td>
