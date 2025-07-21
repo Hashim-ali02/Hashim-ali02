@@ -122,7 +122,7 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 
 <br>
 
-<h3 align="center">Git Stats</h3>
+<h2 align="center">Git Stats</h2>
 
 <div align="center">
  
@@ -193,7 +193,6 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
       <img src="https://github-readme-bento.vercel.app/stats/Hashim-ali02?theme=dark" alt="Hashim's GitHub Stats">
       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Hashim-ali02" alt="Advanced GitHub Stats for Hashim-ali02" width="400">
 
-
 </details>
 
 <br>
@@ -231,13 +230,10 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
   </a>
 </p>
 
-<br>
-
 <h3>
 <div align="center">
   
-⭐️ From [Hashim](https://github.com/Hashim-ali02) | Let's work together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
-
+⭐️ Let's work together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 </div>
 </h3>
