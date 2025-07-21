@@ -109,6 +109,13 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
       Maze Solver Python Tool
     </td>
     <td align="center" width="300" height="300">
+      <img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/SSG.png" alt="Static Site Generator"/>
+      <br>
+      <a href="https://github.com/Hashim-ali02/static-site-generator"><strong>Static Site Generator</strong>
+      <br>
+      Generates static site out of raw content files.
+    </td>
+    <td align="center" width="300" height="300">
       <img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/Asteroids.gif" alt="Asteroids"/>
       <br>
       <a href="https://github.com/Hashim-ali02/asteroids"><strong>Asteroids</strong>
