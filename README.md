@@ -109,7 +109,7 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
       2D Mini-Game
     </td>
     <td align="center" width="300" height="300">
-      <img src="https://githubusercontent.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/bookbot-final-project-demo.gif" alt="BookBot"/>
+      <a href="https://github.com/Hashim-ali02/bookbot"><img src="https://githubusercontent.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/BookBot.png" alt="BookBot"/>
       <br>
       <strong>BookBot</strong>
       <br>
