@@ -250,38 +250,6 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 </div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hashim-ali02&theme=highcontrast&hide_border=true">
 
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Hashim-ali02/asteroids">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hashim-ali02&repo=asteroids&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Hashim-ali02/bookbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hashim-ali02&repo=bookbot&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Hashim-ali02/codecrafters-http-server-python">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hashim-ali02&repo=codecrafters-http-server-python&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-### GitHub Contribution Chart
-<a href="https://github.com/Hashim-ali02">
-    <img src="https://ghchart.rshah.org/Hashim-ali02" alt="Hashim's GitHub Contribution Chart">
-</a>
-
 <br>
 
 <h3 align="center">Boot.dev Stats</h3>
