@@ -131,7 +131,7 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
     </td>
   </tr>
   <tr>
-    <td align="center" width="250" height="250">
+    <td align="center" width="150" height="150">
       <a href="https://github.com/Hashim-ali02/codecrafters-http-server-python"><img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/CodeCrafters-HTTP.png" alt="HTTP Server"/>
       <br>
       <strong>HTTP Server</strong>
