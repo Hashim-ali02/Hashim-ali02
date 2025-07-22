@@ -216,6 +216,24 @@ Currently employed as a Information Security Subject Matter Expert - Specificall
 
 </div>
 
+<h2 align="center">🎓 My Courses</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="300" height="300">
+      <img src="https://github.com/Hashim-ali02/Hashim-ali02/blob/main/projectimg/BootDev.png" alt="Boot.dev"/>
+      <br>
+      <a href="https://www.boot.dev/u/hashima02"><strong>Boot.dev</strong>
+      <br>
+      Backend Development Course
+    </td>
+  </tr>
+</table>
+
+</div>
+
 <br>
 
 <h2 align="center">Git Stats</h2>
