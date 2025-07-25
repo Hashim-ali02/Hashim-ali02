@@ -5,9 +5,6 @@
 </p>
 
 <h1 align="center">🚀 About Me</h1>
-
-I like Computers, Maths, and the puzzles we can solve with them in the fields of Software Engineering and Cyber Security.
-
 Currently employed as a Information Security Subject Matter Expert - Specifically focused on InfoSec Policies, Client Contracts, Security Assessments & Audits.
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Technical Skills</h1>
